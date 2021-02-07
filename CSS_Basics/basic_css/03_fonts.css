@@ -1,0 +1,9 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	line-height: 1.6em;
+}
+
+#welcome p span {
+	font-weight: italic;
+}
